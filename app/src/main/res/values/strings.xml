@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherStation</string>
+    <string name="city_edit_text_hint_text">Enter City</string>
+    <string name="data_default">Please Enter a City</string>
+    <string name="exit_title">Exit</string>
+    <string name="exit_content"><font color="#FFF">Are you sure want to exit?</font></string>
+</resources>
