@@ -26,8 +26,11 @@ The app may stuck for a second as it is collecting data.
 On pressing back button will give a dialogue box asking to exit the app. The dialogue is shown below.
 <img src="dialog.png" height="200px" width="400px" alt="Dialog box">
 
+## Further Improvements
+
+The further improve
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTYzMDkwMiwyNTE3MjIyNSwtODk3MT
+eyJoaXN0b3J5IjpbMTA2NTEwNTg5NiwyNTE3MjIyNSwtODk3MT
 QzMDgyLDc1NjY2Mjg3NywxOTg2NjU0NjY2XX0=
 -->
