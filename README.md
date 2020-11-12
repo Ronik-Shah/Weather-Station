@@ -6,14 +6,18 @@ Weather Station is a simple app for finding the weather of a city. This app uses
 
 <figure>
 	<img src="splash.png" height="400px" width="200px" alt="Splash Screen">
-	<figcaption>Splash Screen</figcaption>
+	<figcaption>Figure - 1</figcaption>
 </figure>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <figure>
-	<img src="without_selected.png" height="400px" width="200px">
-	<figurecaption>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="weather_data.png" height="400px" width="200px">
-
+	<img src="without_selected.png" height="400px" width="200px" alt="Home Screen">
+	<figcaption>Figure -2</figcaption>
+</figure>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<figure>
+	<img src="weather_data.png" height="400px" width="200px" alt="Home Screen">
+	<figcaption>
+</figure>
 ## Splash Screen
 This is the first screen which will be shown at the start of app.
 
@@ -24,6 +28,6 @@ This is the home screen. It contains
 - A edit box where the city name is written. A wrong city name will lead to a snackbar showing the 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTUyODg3NjAsMjUxNzIyMjUsLTg5Nz
-E0MzA4Miw3NTY2NjI4NzcsMTk4NjY1NDY2Nl19
+eyJoaXN0b3J5IjpbNjUwNzgzNDc1LDI1MTcyMjI1LC04OTcxND
+MwODIsNzU2NjYyODc3LDE5ODY2NTQ2NjZdfQ==
 -->
