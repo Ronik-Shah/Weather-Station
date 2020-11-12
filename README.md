@@ -34,9 +34,11 @@ The further improvements in this app can be:
 
 ## Download
 
-The app can be download from here.
+The min sdk version required is 21,i.e., in other words the minimum android version requried is 
+The app can be download from <a href="https://drive.google.com/file/d/1z0sJ6llzUHp3NQaFJb6KfziVAX9-amFJ/view?usp=sharing">here</a>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjgzMzIzLDI1MTcyMjI1LC04OTcxND
-MwODIsNzU2NjYyODc3LDE5ODY2NTQ2NjZdfQ==
+eyJoaXN0b3J5IjpbLTEwOTIyMzExMDksMjEwNjgzMzIzLDI1MT
+cyMjI1LC04OTcxNDMwODIsNzU2NjYyODc3LDE5ODY2NTQ2NjZd
+fQ==
 -->
