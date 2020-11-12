@@ -12,9 +12,9 @@ This is the first screen which will be shown at the start of app.
 The app logo will be shown for 1.5-2 seconds. And then it brings to Home Screen.
 
 ## Home Screen
-This is the home screen. 
+This is the home screen. It contains th
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxNzIyMjUsLTg5NzE0MzA4Miw3NTY2Nj
-I4NzcsMTk4NjY1NDY2Nl19
+eyJoaXN0b3J5IjpbMjA0NzIzNjIyNSwyNTE3MjIyNSwtODk3MT
+QzMDgyLDc1NjY2Mjg3NywxOTg2NjU0NjY2XX0=
 -->
