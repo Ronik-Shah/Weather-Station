@@ -14,9 +14,10 @@ The app logo will be shown for 1.5-2 seconds and then it brings to Home Screen. 
 
 ## Home Screen
 This is the home screen. It contains
-- A edit box where the city name is written. A wrong city name will lead to a snackbar showing the 
+- A edit box where the city name is written. A wrong city name will lead to a snackbar showing at the bottom.
+- If any other problem occurs than a snackbar showing 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ3NTMxMDMsMjUxNzIyMjUsLTg5Nz
-E0MzA4Miw3NTY2NjI4NzcsMTk4NjY1NDY2Nl19
+eyJoaXN0b3J5IjpbLTM3NTM5MzUyNSwyNTE3MjIyNSwtODk3MT
+QzMDgyLDc1NjY2Mjg3NywxOTg2NjU0NjY2XX0=
 -->
