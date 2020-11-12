@@ -8,9 +8,9 @@ Weather Station is a simple app for finding the weather of a city. This app uses
 
 ## Splash Screen
 This is the first screen which will be shown at the start of app.
-The app logo will be shown for 1.5-2 seconds. And then will 
+The app logo will be shown for 1.5-2 seconds. And then
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzE0MzA4Miw3NTY2NjI4NzcsMTk4Nj
-Y1NDY2Nl19
+eyJoaXN0b3J5IjpbMTY2MjU1MDUzMiwtODk3MTQzMDgyLDc1Nj
+Y2Mjg3NywxOTg2NjU0NjY2XX0=
 -->
