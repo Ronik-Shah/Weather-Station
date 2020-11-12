@@ -19,9 +19,14 @@ This is the home screen. It contains
 	- The first part is the logo representing weather.
 	- The second part is the weather name/type.
 	- The thrid part consists of list containing max temperature, min temperature and the humidity.
-- If any problem occurs during this process a snackbar is shown at the bottom of sc
+- If any problem occurs during this process a snackbar is shown at the bottom of screen.
+
+The app may stuck for a second as it is collecting data.
+
+On pressing back button will give a dialogue box asking to exit the app. The dialogue is shown below.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzA1NTk0MiwyNTE3MjIyNSwtODk3MT
+eyJoaXN0b3J5IjpbLTIwNjgzNjQwMSwyNTE3MjIyNSwtODk3MT
 QzMDgyLDc1NjY2Mjg3NywxOTg2NjU0NjY2XX0=
 -->
