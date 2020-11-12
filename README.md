@@ -28,9 +28,15 @@ On pressing back button will give a dialogue box asking to exit the app. The dia
 
 ## Further Improvements
 
-The further improve
+The further improvements in this app can be:
+- Add more weather data.
+- Maybe add a loading screen.
+
+## Download
+
+The app can be download from here.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTEwNTg5NiwyNTE3MjIyNSwtODk3MT
-QzMDgyLDc1NjY2Mjg3NywxOTg2NjU0NjY2XX0=
+eyJoaXN0b3J5IjpbMjEwNjgzMzIzLDI1MTcyMjI1LC04OTcxND
+MwODIsNzU2NjYyODc3LDE5ODY2NTQ2NjZdfQ==
 -->
