@@ -16,10 +16,12 @@ The app logo will be shown for 1.5-2 seconds and then it brings to Home Screen. 
 This is the home screen. It contains
 - A edit box where the city name is written.
 - On typing a valid city, the data is in 3 parts.
-	- The f
-- If any problem occurs 
+	- The first part is the logo representing weather.
+	- The second part is the weather name/type.
+	- The thrid part consists of list containing max temperature, min temperature and the humidity.
+- If any problem occurs during this process a snackbar is shown at the bottom of sc
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTgzNzczMzAsMjUxNzIyMjUsLTg5Nz
-E0MzA4Miw3NTY2NjI4NzcsMTk4NjY1NDY2Nl19
+eyJoaXN0b3J5IjpbMTI1MzA1NTk0MiwyNTE3MjIyNSwtODk3MT
+QzMDgyLDc1NjY2Mjg3NywxOTg2NjU0NjY2XX0=
 -->
