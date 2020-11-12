@@ -4,13 +4,8 @@ Weather Station is a simple app for finding the weather of a city. This app uses
 - The app has a splash screen.
 - The app will show **Maximum Temperature**,**Minimum Temperature**, **Humditiy** and **Weather Type** of the entered city.
 
-<img src="splash.png" height="400px" width="200px" alt="Splash Screen"><img src="without_selected.png" height="400px" width="200px" alt="Home Screen">
-	<figcaption><b>Figure -2</b></figcaption>
-</figure>
-<figure style="width: 25%;float: left;margin: 0;text-align: center;padding: 0;">
-	<img src="weather_data.png" height="400px" width="200px" alt="Home Screen">
-	<figcaption><b>Figure-3</b></figcaption>
-</figure>
+<img src="splash.png" height="400px" width="200px" alt="Splash Screen">&nbsp;&nbsp;&nbsp;<img src="without_selected.png" height="400px" width="200px" alt="Home Screen">&nbsp;&nbsp;&nbsp;
+<img src="weather_data.png" height="400px" width="200px" alt="Home Screen">
 
 ## Splash Screen
 This is the first screen which will be shown at the start of app.
@@ -22,6 +17,6 @@ This is the home screen. It contains
 - A edit box where the city name is written. A wrong city name will lead to a snackbar showing the 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0MTYwNzAxLDI1MTcyMjI1LC04OTcxND
-MwODIsNzU2NjYyODc3LDE5ODY2NTQ2NjZdfQ==
+eyJoaXN0b3J5IjpbLTEwNjQ3NTMxMDMsMjUxNzIyMjUsLTg5Nz
+E0MzA4Miw3NTY2NjI4NzcsMTk4NjY1NDY2Nl19
 -->
